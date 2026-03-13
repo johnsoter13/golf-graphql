@@ -1,4 +1,8 @@
 {
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "@apollo/server": "^5.4.0",
     "graphql": "^16.13.1",
